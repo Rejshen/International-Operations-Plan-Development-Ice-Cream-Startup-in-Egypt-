@@ -10,7 +10,6 @@ The project demonstrates end-to-end decision-making in international business op
 
 
 - **International Operations Plan Development.docx** – Full write-up of the Egypt entry plan (headquarters/DC location, transport strategy, warehouse technology, packaging, KPIs, risks, and procurement approach).  
-- **2_AMB303 Assessment 2_CASE STUDY.pdf** – The original case study brief including business context, objectives, and financial targets.  
 - **ENTRY MODE CALCULATIONS.xlsx** – Financial and operational modelling workbook (entry mode evaluation, cost build-ups, volume assumptions, income statement, and strategic profit model).
 
 ---
