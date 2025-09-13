@@ -9,8 +9,8 @@ The project demonstrates end-to-end decision-making in international business op
 ## Repository Structure
 
 
-- **International Operations Plan Development.docx** – Full write-up of the Egypt entry plan (headquarters/DC location, transport strategy, warehouse technology, packaging, KPIs, risks, and procurement approach).  
-- **ENTRY MODE CALCULATIONS.xlsx** – Financial and operational modelling workbook (entry mode evaluation, cost build-ups, volume assumptions, income statement, and strategic profit model).
+- **International Operations Plan Development** – Full write-up of the Egypt entry plan (headquarters/DC location, transport strategy, warehouse technology, packaging, KPIs, risks, and procurement approach).  
+- **ENTRY MODE CALCULATIONS** – Financial and operational modelling workbook (entry mode evaluation, cost build-ups, volume assumptions, income statement, and strategic profit model).
 
 ---
 
